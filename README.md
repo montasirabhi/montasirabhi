@@ -12,7 +12,14 @@ Email Me 👉 ✉️ **montasirrahmanabhi01@gmail.com** For Collaboration/Projec
 - ⚡ **Fun fact:** Coding my passion, committing my growth
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=montasirabhi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="660" src="https://github.com/user-attachments/assets/18a2266c-9a88-4882-940d-162c0c4d36e0">
+</p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
+</p>
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/montasir.rahman.abhi.2025) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/montasirabhi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/montasirabhi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/montasir-rahman-abhi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdmontasirabhi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a_s_solutions) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montasirrahmanabhi01@gmail.com) 

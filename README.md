@@ -1,4 +1,4 @@
-# I'm Montasir Rahman Abhi
+# I'm Abhi
 
 ### 🎓 BBA Student (Accounting) 
 
@@ -62,15 +62,6 @@ Passionate about **Accounting, Finance, Business, and Technology**. I enjoy comb
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=montasirabhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=montasirabhi&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=montasirabhi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ### ✍️ Random Dev Quote
 
@@ -82,13 +73,7 @@ Passionate about **Accounting, Finance, Business, and Technology**. I enjoy comb
 
 ---
 
-### 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
 

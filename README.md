@@ -1,20 +1,19 @@
-# 💫 Hi 👋, I'm Montasir Rahman Abhi
+# I'm Montasir Rahman Abhi
 
-### 🎓 BBA Student (Accounting) | 💻 Full Stack Developer
+### 🎓 BBA Student (Accounting) 
 
 Passionate about **Accounting, Finance, Business, and Technology**. I enjoy combining business knowledge with technical skills to build practical digital solutions.
 
-📧 **Email Me:** [montasirrahmanabhi01@gmail.com](mailto:montasirrahmanabhi01@gmail.com) for Collaboration, Projects, or Professional Discussions. 😊
+📧 **Email Me:** [montasirrahmanabhi@gmail.com](mailto:montasirrahmanabhi@gmail.com) for Collaboration, Projects, or Professional Discussions. 😊
 
-- 🎓 **Currently Studying:** Bachelor of Business Administration (BBA) – Accounting
-- 💻 **Working On:** School Management System
-- 🌱 **Currently Learning:** C# & Advanced Business Technologies
-- 📊 **Interested In:** Accounting, Finance, Financial Analysis & Data Analytics
-- 🤝 **Looking For:** Collaboration, Learning & Innovative Project Ideas
-- 💬 **Ask Me About:** Accounting, Business, PHP, Web Development & Technology
-- 📫 **Reach Me:** montasirrahmanabhi01@gmail.com
-- 😄 **Pronouns:** Montasir
-- ⚡ **Fun Fact:** Balancing business knowledge with coding passion!
+-  **Currently Studying:** Bachelor of Business Administration (BBA) – Accounting
+-  **Currently Learning:** Intermediate Accounting
+-  **Interested In:** Accounting, Finance, Financial Analysis & Data Analytics
+-  **Looking For:** Collaboration, Learning & Innovative Project Ideas
+-  **Ask Me About:** Accounting, Business, PHP, Web Development & Technology
+-  **Reach Me:** montasirrahmanabhi01@gmail.com
+-  **Pronouns:** Abhi
+-  **Fun Fact:** Balancing business knowledge with coding passion!
 
 ---
 
@@ -30,18 +29,17 @@ Passionate about **Accounting, Finance, Business, and Technology**. I enjoy comb
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=montasirabhi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img width="660" src="https://github.com/user-attachments/assets/18a2266c-9a88-4882-940d-162c0c4d36e0">
+</p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
 </p>
 
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/montasir.rahman.abhi.2025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/montasirabhi)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/montasirabhi)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/montasir-rahman-abhi)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdmontasirabhi)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a_s_solutions)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montasirrahmanabhi01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:montasirrahmanabhi@gmail.com)
 
 ---
 
